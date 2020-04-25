@@ -2,8 +2,8 @@
 
 Setup:
 
-    git clone https://github.com/lgarron/svg-demo
-    cd svg-demo
+    git clone https://github.com/lgarron/kpuzzle-svg-demo
+    cd kpuzzle-svg-demo
     npm install
 
 Launch:
